@@ -1,10 +1,3 @@
-/*
-	Shatilla Prayer
-	Assignment #5
-	CS 202-1003
-	3/1/2017
-*/
-
 #include <iostream>
 #include "circleCylinder.h"
 #include <cmath>
